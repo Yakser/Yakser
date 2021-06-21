@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web-projects using Flask.
-- 🌱 I’m currently learning Nginx + docker, docker-compose
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on everything 🙃
 - 📫 How to reach me:
 - - email- sergeyyaksanov@yandex.ru
