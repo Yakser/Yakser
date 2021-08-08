@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web-projects using Flask.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS/ReactJS
 - 👯 I’m looking to collaborate on everything 🙃
 - 📫 How to reach me:
 - - 📧 sergeyyaksanov@yandex.ru
