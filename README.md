@@ -8,5 +8,5 @@
 - - discord Yakser#3658
 - - [vk](https://vk.com/yakser)
 - - [instagram](https://www.instagram.com/y4kser/)
-- ⚡ Fun fact: I'm 16 y.o. (it's not funny, I know)
+- ⚡ Fun fact: I'm 17 y.o. (it's not funny, I know)
 
