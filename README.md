@@ -1,4 +1,16 @@
 ### Hi there 👋 I'm Sergey, Web developer from Russia.
+
+## About
+- 🔭 I’m currently working on web-projects using Flask, FastAPI and React.
+- 🌱 I’m currently learning ReactJS + Typescript
+- 👯 I’m looking to collaborate on everything 🙃
+- 📫 How to reach me:
+- - 📧 sergeyyaksanov@yandex.ru
+- - discord Yakser#3658
+- - [vk](https://vk.com/yakser)
+- - [instagram](https://www.instagram.com/y4kser/)
+- ⚡ Fun fact: I'm 17 y.o. (it's not funny, I know)
+
 ## Here are my projects
 ### Web
 * **Notepad** - [web](https://yakser-notepad.herokuapp.com) / [github](https://github.com/Yakser/Yakser-Notepad)
@@ -25,15 +37,3 @@
 * * SCSS 🎀
 * * Flex, Grid
 * * HTML5/CSS3
-
-## About
-- 🔭 I’m currently working on web-projects using Flask, FastAPI and React.
-- 🌱 I’m currently learning ReactJS + Typescript
-- 👯 I’m looking to collaborate on everything 🙃
-- 📫 How to reach me:
-- - 📧 sergeyyaksanov@yandex.ru
-- - discord Yakser#3658
-- - [vk](https://vk.com/yakser)
-- - [instagram](https://www.instagram.com/y4kser/)
-- ⚡ Fun fact: I'm 17 y.o. (it's not funny, I know)
-
