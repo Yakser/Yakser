@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Sergey, Junior web developer.
 
 ## Stack
-* JavaScripts
-* * ReactJS
-* * Vanilla JS
+* JavaScript
+* * React
+* * Vanilla
 * * Ajax
 * Python
 * * Flask
