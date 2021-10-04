@@ -13,6 +13,7 @@
 * Flex, Grid
 * HTML5/CSS3
 
+## About
 - 🔭 I’m currently working on web-projects using Flask, FastAPI and React.
 - 🌱 I’m currently learning ReactJS + Typescript
 - 👯 I’m looking to collaborate on everything 🙃
