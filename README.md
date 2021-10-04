@@ -12,7 +12,7 @@
 * * PyQT5 
 * * PyGame
 * Markup 🔡
-* * SCSS
+* * SCSS 🎀
 * * Flex, Grid
 * * HTML5/CSS3
 
