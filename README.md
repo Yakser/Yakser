@@ -3,9 +3,9 @@
 ## Stack
 * JavaScript
 * * React ⚛
-* * Vanilla / ES6+
 * * Ajax
-* Python
+* * Vanilla / ES6+
+* Python 🐍
 * * Flask
 * * FastAPI
 * * SQLAlchemy orm
