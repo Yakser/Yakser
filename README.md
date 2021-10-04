@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Sergey, Junior web developer.
 ## Here are my projects
 ### Web
-* Notepad - [web](https://yakser-notepad.herokuapp.com) / [github](https://github.com/Yakser/Yakser-Notepad)
+* **Notepad** - [web](https://yakser-notepad.herokuapp.com) / [github](https://github.com/Yakser/Yakser-Notepad)
 * * It's text notes editor with auth system. Create folders and add text notes to them.
-* Qrify - [web](https://react-qrcode-generator.herokuapp.com) / [github](https://github.com/Yakser/QRCodeGenerator)
+* **Qrify** - [web](https://react-qrcode-generator.herokuapp.com) / [github](https://github.com/Yakser/QRCodeGenerator)
 * * QR-code generator built with React and FastAPI.
-* React Todo list - [web](https://yakser-todo.herokuapp.com/) / [github](https://github.com/Yakser/react-todo)
+* **React Todo list** - [web](https://yakser-todo.herokuapp.com/) / [github](https://github.com/Yakser/react-todo)
 * * Simple Todo List made with React
 ### Desktop
-* Я.Музычка [source](https://yadi.sk/d/eJMPP2OCAINtDA) [github](https://github.com/Yakser/Ya.Musichka)
+* **Я.Музычка** [source](https://yadi.sk/d/eJMPP2OCAINtDA) [github](https://github.com/Yakser/Ya.Musichka)
 * * Я.Музычка is a player that can play audio from your computer. Upload tracks and add them to playlists!
 ## Stack
 * JavaScript 🟨
