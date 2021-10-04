@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sergey, Junior web developer.
+### Hi there 👋 I'm Sergey, Web developer from Russia.
 ## Here are my projects
 ### Web
 * **Notepad** - [web](https://yakser-notepad.herokuapp.com) / [github](https://github.com/Yakser/Yakser-Notepad)
