@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Sergey, Junior web developer.
+
+## Stack
+* ReactJS
+* Flask
+* FastAPI
+* SQLAlchemy orm
+* PyQT5 
+* PyGame
+* Vanilla JS
+* Ajax
+* SCSS
+* Flex, Grid
+* HTML5/CSS3
 
 - 🔭 I’m currently working on web-projects using Flask, FastAPI and React.
 - 🌱 I’m currently learning ReactJS + Typescript
