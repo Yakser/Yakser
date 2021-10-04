@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sergey, Junior web developer.
 
 ## Stack
-* JavaScript
+* JavaScript 🟨
 * * React ⚛
 * * Ajax
 * * Vanilla / ES6+
@@ -11,7 +11,7 @@
 * * SQLAlchemy orm
 * * PyQT5 
 * * PyGame
-* Markup
+* Markup 🔡
 * * SCSS
 * * Flex, Grid
 * * HTML5/CSS3
