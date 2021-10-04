@@ -8,7 +8,7 @@
 * **React Todo list** - [web](https://yakser-todo.herokuapp.com/) / [github](https://github.com/Yakser/react-todo)
 * * Simple Todo List made with React
 ### Desktop
-* **Я.Музычка** [source](https://yadi.sk/d/eJMPP2OCAINtDA) [github](https://github.com/Yakser/Ya.Musichka)
+* **Я.Музычка** [source](https://yadi.sk/d/eJMPP2OCAINtDA) / [github](https://github.com/Yakser/Ya.Musichka)
 * * Я.Музычка is a player that can play audio from your computer. Upload tracks and add them to playlists!
 ## Stack
 * JavaScript 🟨
