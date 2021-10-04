@@ -2,7 +2,7 @@
 
 ## Stack
 * JavaScript
-* * React
+* * React ⚛
 * * Vanilla / ES6+
 * * Ajax
 * Python
