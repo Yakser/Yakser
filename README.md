@@ -3,7 +3,7 @@
 ## Stack
 * JavaScript
 * * React
-* * Vanilla
+* * Vanilla / ES6+
 * * Ajax
 * Python
 * * Flask
