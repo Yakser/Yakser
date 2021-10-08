@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sergey, Web developer from Russia.
 <a href="mailto:sergeyyaksanov@yandex.ru">
-  <img align="left" alt="VK" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
+  <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
 </a>
 
 <a href="https://t.me/y4ks3r">
@@ -51,9 +51,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
-## Here are my projects
+## Here are my projects 🔥
 
-### Web
+### Web 🌐
 
 [**Notepad**](https://yakser-notepad.herokuapp.com)
 >It's text notes editor with auth system. Create folders and add text notes to them.
@@ -70,7 +70,7 @@
 >
 > [View repository](https://github.com/Yakser/react-todo)
 
-### Desktop
+### Desktop 💻
 
 [**Я.Музычка**](https://github.com/Yakser/Ya.Musichka)
 >**Я.Музычка** is a player that can play audio from your computer. Upload tracks and add them to playlists!
