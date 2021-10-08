@@ -15,7 +15,7 @@
 
 ## Stack
 
-###Backend
+### Backend
 
 ![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
@@ -24,11 +24,11 @@
 ![PyGame](https://img.shields.io/badge/-PyGame-B5B6F2?style=flat-square&logo=PyGame)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
-###Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 
-###Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/-React-202020?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript/ES6+-%23F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A)
@@ -37,7 +37,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-###Tools
+### Tools
 
 ![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visualstudiocode&logoColor=0173C1)
 ![PyCharm](https://img.shields.io/badge/PyCharm-white?style=flat-square&logo=pycharm&logoColor=black)
@@ -46,14 +46,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-###Learning
+### Learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ## Here are my projects
 
-###Web
+### Web
 
 [**Notepad**](https://yakser-notepad.herokuapp.com)
 >It's text notes editor with auth system. Create folders and add text notes to them.
@@ -70,7 +70,7 @@
 >
 > [View repository](https://github.com/Yakser/react-todo)
 
-###Desktop
+### Desktop
 
 [**Я.Музычка**](https://github.com/Yakser/Ya.Musichka)
 >**Я.Музычка** is a player that can play audio from your computer. Upload tracks and add them to playlists!
