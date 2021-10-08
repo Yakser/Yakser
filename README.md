@@ -1,39 +1,103 @@
-### Hi there 👋 I'm Sergey, Web developer from Russia.
+## Hi there 👋 I'm Sergey, Web developer from Russia.
+<a href="mailto:sergeyyaksanov@yandex.ru">
+  <img align="left" alt="VK" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
+</a>
 
-## About
-- 🔭 I’m currently working on web-projects using Flask, FastAPI and React.
-- 🌱 I’m currently learning ReactJS + Typescript
-- 👯 I’m looking to collaborate on everything 🙃
-- 📫 How to reach me:
-- - 📧 sergeyyaksanov@yandex.ru
-- - discord Yakser#3658
-- - [vk](https://vk.com/yakser)
-- - [instagram](https://www.instagram.com/y4kser/)
-- ⚡ Fun fact: I'm 17 y.o. (it's not funny, I know)
+<a href="https://t.me/y4ks3r">
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
+
+<a href="https://vk.com/yakser">
+  <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
+</a>
+
+<br>
+
+## Stack
+
+###Backend
+
+![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![PyQT5](https://img.shields.io/badge/-PyQT5-8AF2C7?style=flat-square&logo=Qt)
+![PyGame](https://img.shields.io/badge/-PyGame-B5B6F2?style=flat-square&logo=PyGame)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+
+###Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
+
+###Frontend
+
+![React](https://img.shields.io/badge/-React-202020?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript/ES6+-%23F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-94476E?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+###Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visualstudiocode&logoColor=0173C1)
+![PyCharm](https://img.shields.io/badge/PyCharm-white?style=flat-square&logo=pycharm&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+###Learning
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ## Here are my projects
-### Web
-* **Notepad** - [web](https://yakser-notepad.herokuapp.com) / [github](https://github.com/Yakser/Yakser-Notepad)
-* * It's text notes editor with auth system. Create folders and add text notes to them.
-* **Qrify** - [web](https://react-qrcode-generator.herokuapp.com) / [github](https://github.com/Yakser/QRCodeGenerator)
-* * QR-code generator built with React and FastAPI.
-* **React Todo list** - [web](https://yakser-todo.herokuapp.com/) / [github](https://github.com/Yakser/react-todo)
-* * Simple Todo List made with React
-### Desktop
-* **Я.Музычка** [source](https://yadi.sk/d/eJMPP2OCAINtDA) / [github](https://github.com/Yakser/Ya.Musichka)
-* * Я.Музычка is a player that can play audio from your computer. Upload tracks and add them to playlists!
-## Stack
-* JavaScript 🟨
-* * React ⚛
-* * Ajax
-* * Vanilla / ES6+
-* Python 🐍
-* * Flask
-* * FastAPI
-* * SQLAlchemy orm
-* * PyQT5 
-* * PyGame
-* Markup 🔡
-* * SCSS 🎀
-* * Flex, Grid
-* * HTML5/CSS3
+
+###Web
+
+[**Notepad**](https://yakser-notepad.herokuapp.com)
+>It's text notes editor with auth system. Create folders and add text notes to them.
+> 
+>[View repository](https://github.com/Yakser/Yakser-Notepad)
+
+[**Qrify**](https://react-qrcode-generator.herokuapp.com)
+>QR-code generator built with React and FastAPI.
+>
+> [View repository](https://github.com/Yakser/QRCodeGenerator)
+> 
+[**React Todo list**](https://yakser-todo.herokuapp.com/)
+>Simple Todo List made with React
+>
+> [View repository](https://github.com/Yakser/react-todo)
+
+###Desktop
+
+[**Я.Музычка**](https://github.com/Yakser/Ya.Musichka)
+>**Я.Музычка** is a player that can play audio from your computer. Upload tracks and add them to playlists!
+>
+> [Download](https://yadi.sk/d/eJMPP2OCAINtDA)
+## Statistics
+
+![Yakser github stats](https://github-readme-stats.vercel.app/api?username=Yakser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+[comment]: <> (## About)
+
+[comment]: <> (- 🔭 I’m currently working on web-projects using Flask, FastAPI and React.)
+
+[comment]: <> (- 🌱 I’m currently learning ReactJS + Typescript)
+
+[comment]: <> (- 👯 I’m looking to collaborate on everything 🙃)
+
+[comment]: <> (- 📫 How to reach me:)
+
+[comment]: <> (- - 📧 sergeyyaksanov@yandex.ru)
+
+[comment]: <> (- - discord Yakser#3658)
+
+[comment]: <> (- - [vk]&#40;https://vk.com/yakser&#41;)
+
+[comment]: <> (- - [instagram]&#40;https://www.instagram.com/y4kser/&#41;)
+
+[comment]: <> (- ⚡ Fun fact: I'm 17 y.o. &#40;it's not funny, I know&#41;)
+
+[comment]: <> (![Yakser Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Yakser&layout=compact&count_private=true&theme=gruvbox&#41;)
