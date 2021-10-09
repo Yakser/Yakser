@@ -20,8 +20,6 @@
 ![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![PyQT5](https://img.shields.io/badge/-PyQT5-8AF2C7?style=flat-square&logo=Qt)
-![PyGame](https://img.shields.io/badge/-PyGame-B5B6F2?style=flat-square&logo=PyGame)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ### Databases
