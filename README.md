@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sergey, Web developer from Russia.
+## Hi there 👋 I'm Sergey
 <a href="mailto:sergeyyaksanov@yandex.ru">
   <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
 </a>
