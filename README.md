@@ -22,6 +22,7 @@
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Nginx](https://img.shields.io/badge/-Nginx-009400?style=flat-square&logo=nginx)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Redis](https://img.shields.io/badge/-Redis-161F31?style=flat-square&logo=redis)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 
 ### Databases
