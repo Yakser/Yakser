@@ -17,7 +17,7 @@
 
 ### Backend
 
-![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-FFC6D7?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Nginx](https://img.shields.io/badge/-Nginx-009400?style=flat-square&logo=nginx)
