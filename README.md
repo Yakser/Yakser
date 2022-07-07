@@ -18,9 +18,9 @@
 ### Backend
 
 ![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-F2C73F?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ### Databases
 
@@ -39,7 +39,6 @@
 
 ![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visualstudiocode&logoColor=0173C1)
 ![PyCharm](https://img.shields.io/badge/PyCharm-white?style=flat-square&logo=pycharm&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -47,7 +46,6 @@
 ### Learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
 ## Here are my projects 🔥
 
