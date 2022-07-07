@@ -32,7 +32,7 @@
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-202020?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript/ES6+-%23F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-94476E?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
