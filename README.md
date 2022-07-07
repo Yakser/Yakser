@@ -19,6 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-F2C73F?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
+![Django REST framework](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 
