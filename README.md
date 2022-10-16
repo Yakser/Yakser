@@ -55,10 +55,11 @@
 
 ### Web 🌐
 
-[**Notepad**](https://yakser-notepad.herokuapp.com)
->It's text notes editor with auth system. Create folders and add text notes to them.
+[**Soft - web chat**](https://github.com/Yakser/django-websocket-chat)
+
+>This is a text chat created using websockets. You can communicate with different people in it, as well as create groups and channels.
 > 
->[View repository](https://github.com/Yakser/Yakser-Notepad)
+>[View repository](https://github.com/Yakser/django-websocket-chat)
 
 [**Qrify**](https://react-qrcode-generator.herokuapp.com)
 >QR-code generator built with React and FastAPI.
