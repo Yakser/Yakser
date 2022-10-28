@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sergey
+## Hi there 👋 I'm Sergey ![](https://visitor-badge.glitch.me/badge?page_id=yakser.yakser)
 <a href="mailto:sergeyyaksanov@yandex.ru">
   <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
 </a>
@@ -102,3 +102,7 @@
 [comment]: <> (- ⚡ Fun fact: I'm 17 y.o. &#40;it's not funny, I know&#41;)
 
 [comment]: <> (![Yakser Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Yakser&layout=compact&count_private=true&theme=gruvbox&#41;)
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/yakser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
