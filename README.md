@@ -66,10 +66,6 @@
 >
 > [View repository](https://github.com/Yakser/QRCodeGenerator)
 > 
-[**React Todo list**](https://yakser-todo.herokuapp.com/)
->Simple Todo List made with React
->
-> [View repository](https://github.com/Yakser/react-todo)
 
 ### Desktop 💻
 
@@ -80,28 +76,6 @@
 ## Statistics
 
 ![Yakser github stats](https://github-readme-stats.vercel.app/api?username=Yakser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-[comment]: <> (## About)
-
-[comment]: <> (- 🔭 I’m currently working on web-projects using Flask, FastAPI and React.)
-
-[comment]: <> (- 🌱 I’m currently learning ReactJS + Typescript)
-
-[comment]: <> (- 👯 I’m looking to collaborate on everything 🙃)
-
-[comment]: <> (- 📫 How to reach me:)
-
-[comment]: <> (- - 📧 sergeyyaksanov@yandex.ru)
-
-[comment]: <> (- - discord Yakser#3658)
-
-[comment]: <> (- - [vk]&#40;https://vk.com/yakser&#41;)
-
-[comment]: <> (- - [instagram]&#40;https://www.instagram.com/y4kser/&#41;)
-
-[comment]: <> (- ⚡ Fun fact: I'm 17 y.o. &#40;it's not funny, I know&#41;)
-
-[comment]: <> (![Yakser Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Yakser&layout=compact&count_private=true&theme=gruvbox&#41;)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
