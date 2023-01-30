@@ -27,6 +27,7 @@
 
 ### Databases
 
+![Postgresql](https://img.shields.io/badge/-Postgresql-white?style=flat-square&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
 
 ### Frontend
