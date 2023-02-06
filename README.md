@@ -76,13 +76,17 @@
 > [Download](https://yadi.sk/d/eJMPP2OCAINtDA)
 ## Statistics
 
+<a href="https://www.codewars.com/users/Yakser">
+ <img src="https://www.codewars.com/users/Yakser/badges/micro" alt="CodeWars">
+</a>
+
 ![Yakser github stats](https://github-readme-stats.vercel.app/api?username=Yakser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+[![Yakser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=y4ks3r&theme=dark&langs_count=3)](https://github.com/yakser/)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/yakser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-[![Yakser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=y4ks3r&theme=dark&langs_count=3)](https://github.com/yakser/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yakser.yakser)
 
