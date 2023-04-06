@@ -57,7 +57,7 @@
 ### Learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
+![Nextjs](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextjs&logoColor=white)
 ## Here are my projects 🔥
 
 ### Web 🌐
@@ -80,6 +80,7 @@
 >**Я.Музычка** is a player that can play audio from your computer. Upload tracks and add them to playlists!
 >
 > [Download](https://yadi.sk/d/eJMPP2OCAINtDA)
+
 ## Statistics
 
 <a href="https://www.codewars.com/users/Yakser">
