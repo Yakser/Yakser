@@ -54,29 +54,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextjs&logoColor=white)
 
-## Here are my projects 🔥
-
-### Web 🌐
-
-[**Soft - web chat**](https://github.com/Yakser/django-websocket-chat)
-
->This is a text chat created using websockets. You can communicate with different people in it, as well as create groups and channels.
-> 
->[View repository](https://github.com/Yakser/django-websocket-chat)
-
-[**Qrify**](https://react-qrcode-generator.herokuapp.com)
->QR-code generator built with React and FastAPI.
->
-> [View repository](https://github.com/Yakser/QRCodeGenerator)
-> 
-
-### Desktop 💻
-
-[**Я.Музычка**](https://github.com/Yakser/Ya.Musichka)
->**Я.Музычка** is a player that can play audio from your computer. Upload tracks and add them to playlists!
->
-> [Download](https://yadi.sk/d/eJMPP2OCAINtDA)
-
 ## Statistics
 
 <a href="https://www.codewars.com/users/Yakser">
