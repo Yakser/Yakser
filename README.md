@@ -18,7 +18,7 @@
 
 ### Backend
 
-![Python](https://img.shields.io/badge/-Python-FFC6D7?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Nginx](https://img.shields.io/badge/-Nginx-009400?style=flat-square&logo=nginx)
@@ -49,21 +49,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Learning
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nextjs](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextjs&logoColor=white)
-
 ## Statistics
 
-<a href="https://www.codewars.com/users/Yakser">
- <img src="https://www.codewars.com/users/Yakser/badges/micro" alt="CodeWars">
-</a>
-
 ![Yakser github stats](https://github-readme-stats.vercel.app/api?username=Yakser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/yakser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yakser.yakser)
