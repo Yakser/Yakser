@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sergey
 
-<a href="https://yakser.tech" title="My personal website">
-  <img align="left" alt="Telegram" width="22px" src="https://yakser.tech/images/favicons/favicon.png">
+<a href="https://about.yakser.space" title="My personal website">
+  <img align="left" alt="Telegram" width="22px" src="https://about.yakser.space/images/favicons/favicon.png">
 </a>
 <a href="mailto:sergeyyaksanov@yandex.ru" title="Email">
   <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
